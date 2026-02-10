@@ -166,7 +166,3 @@ GitHub: [https://github.com/kiran-viswanadhapalli](https://github.com/kiran-visw
 ## ⭐ Acknowledgments
 
 This project was developed for academic and research exploration in **medical image analysis and deep learning**.
-
-```
-```
-
